@@ -7,6 +7,7 @@ html {
 main {
   max-width: 800px;
   margin: 0 auto;
+  margin-bottom: 100px;
 }
 
 h1 {
@@ -29,6 +30,7 @@ nav {
   left: 0;
   padding: 15px;
   width: 100%;
+  height: auto;
   backdrop-filter: saturate(180%) blur(10px);
   background-color: rgba(23, 15, 30, 0.8);
 }
