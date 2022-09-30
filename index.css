@@ -47,8 +47,6 @@ a {
 }
 
 .button {
-  /* width: 235px;
-  height: 40px; */
   width: auto;
   height: auto;
   max-height: 40px;
