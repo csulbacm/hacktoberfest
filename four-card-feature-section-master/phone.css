@@ -1,0 +1,19 @@
+body{
+    /* background: #000; */
+}
+
+#obox{
+    display: block;
+}
+
+.box{
+ margin-top: 15px;   
+}
+
+.box img{
+    float: none;
+}
+
+.img{
+    text-align: right;
+}
