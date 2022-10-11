@@ -19,11 +19,13 @@ h2 {
 }
 
 h3 {
-  color: #B4FF39
+  color: #B4FF39;
+  padding-left: 1rem;
 }
 
 p {
-  color: white
+  color: white;
+  padding-left: 3rem;
 }
 
 nav {
