@@ -12,7 +12,7 @@ The aim of the event to get students familar with using [Git](https://git-scm.co
 - Clone the repository locally
 - Track `index.html`
 - Edit the html file and navigate to line 102
-- Add `<a href="[linkedin]"><button class="btn_blue">[icon] [name]</button></a>` after line 102
+- Add `<a href="[linkedin]" target="_blank"><button class="btn_blue">[icon] [name]</button></a>` after line 102
 - Replace `[linkedin]` with a url to your [LinkedIn](https://www.linkedin.com) Profile
 - Replace `[icon]` with an icon from [FontAwesome](https://fontawesome.com/) just need to copy the html provided
 - Replace `[name]` with your full name

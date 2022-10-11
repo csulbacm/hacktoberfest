@@ -56,6 +56,10 @@ a {
   color: #FFE27D;
 }
 
+.title {
+  padding: 0;
+}
+
 .button {
   font-family: 'JetBrains Mono', monospace;
   width: auto;
