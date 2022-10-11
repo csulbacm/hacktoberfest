@@ -103,3 +103,40 @@ a {
 .item {
   margin: 0 10px;
 }
+
+.btn_container {
+  padding-left: 3rem;
+}
+
+/* Workshop */
+.btn_yellow {
+  font-family: 'JetBrains Mono', monospace;
+  padding: 0.5rem;
+  margin-bottom: 1.5rem;
+  margin-right: 0.5rem;
+  background: linear-gradient(rgba(0, 0, 0, 0) 0%, rgb(255, 215, 77) 180%);
+  border: 1px solid rgb(255, 215, 77);
+  box-shadow: rgb(255 215 77) 0px 0px 12px;
+  border-radius: 12px;
+  color: white;
+}
+
+.btn_yellow:hover {
+  background: linear-gradient(rgba(255, 215, 77, 0.337) 0%, rgb(255, 215, 77) 180%);
+}
+
+.btn_purple {
+  font-family: 'JetBrains Mono', monospace;
+  padding: 0.5rem;
+  margin-bottom: 1.5rem;
+  margin-right: 0.5rem;
+  background: linear-gradient(rgba(0, 0, 0, 0) 0%, rgb(124, 127, 255) 180%);
+  border: 1px solid rgb(124, 127, 255);
+  box-shadow: rgb(124 127 255) 0px 0px 12px;
+  border-radius: 12px;
+  color: white;
+}
+
+.btn_purple:hover {
+  background: linear-gradient(rgba(124, 127, 255, 0.337) 0%, rgb(124, 127, 255) 180%);
+}
