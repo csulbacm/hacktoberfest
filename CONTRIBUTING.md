@@ -9,7 +9,7 @@ The aim of the event to get students familar with using [Git](https://git-scm.co
 ## **[WEBSITE COMMIT]**
 
 - Fork the [Website Repository](https://github.com/csulbacm/hacktoberfest)
-- Clone the Reposity Locally
+- Clone the repository locally
 - Track `index.html`
 - Edit the html file and navigate to line 102
 - Add `<a href="[linkedin]"><button class="btn_blue">[icon] [name]</button></a>` after line 102
