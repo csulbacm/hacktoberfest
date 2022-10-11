@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/J55r3Sk.png)
-# Contrubiting to Hactoberfest at the Beach Event
+# Contrubiting to [Hactoberfest](https://csulbacm.github.io/hacktoberfest/) at the Beach Event
 ## Presented by [ACM](https://csulb.acm.org) x [VGDA](https://linktr.ee/VGDA) x [GDSC](https://linktr.ee/dsccsulb) x [WiC](https://csulbwic.com) x [CyberSec](https://discord.gg/qDWhKDqRPp)
 
 ## **[ABOUT]**
@@ -19,4 +19,4 @@ The aim of the event to get students familar with using [Git](https://git-scm.co
 - *Optional* \* change `btn_blue` to `btn_yellow`, `btn_green`, `btn_purple`
 - Commit and Push to your repository
 - Create a [Pull Request](https://github.com/csulbacm/hacktoberfest/pulls) *press compare accross forks* ***Make sure to apply the Hacktoberfest label***
-- Sumbit Pull Request and we will confirm ASAP!
+- Sumbit Pull Request and we will confirm ASAP! and the view the changes on the [Website](https://csulbacm.github.io/hacktoberfest)

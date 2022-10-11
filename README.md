@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/J55r3Sk.png)
-# Welcome to Hacktoberfest at the Beach
+# Welcome to [Hacktoberfest at the Beach](https://csulbacm.github.io/hacktoberfest)
 ## Presented by [ACM](https://csulb.acm.org) x [VGDA](https://linktr.ee/VGDA) x [GDSC](https://linktr.ee/dsccsulb) x [WiC](https://csulbwic.com) x [CyberSec](https://discord.gg/qDWhKDqRPp)
 ## **[SCHEDULE]**
 ### **[TUESDAY, OCTOBER 11]**
